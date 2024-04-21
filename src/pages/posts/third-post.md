@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 3rd Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Libertadores 2022
+description: Participamos, pela primeira vez na história, de uma libertadores, foi em 2022, após ficar em oitavo colocado no campeonato brasileiro em 2021.
 pubDate: 2020-02-03T00:00:00Z
-imgSrc: '/assets/images/image-post4.jpeg'
+imgSrc: '/assets/images/liberta.png'
 imgAlt: 'Image post 4'
 ---
 

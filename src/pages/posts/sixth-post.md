@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Typography example
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Maior campeão da série B
+description: Somos os maiores campeões da série B, com 2 títulos, era pra ser 3 mas passaram o mão na gente.
 pubDate: 2020-02-06T00:00:00Z
-imgSrc: '/assets/images/image-post.jpeg'
+imgSrc: '/assets/images/serieb.png'
 imgAlt: 'Image post'
 ---
 

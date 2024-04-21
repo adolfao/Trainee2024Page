@@ -10,28 +10,22 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Opa, tudo bem? Eu sou o <GradientText>Adolfo</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          Tenho 20 anos e sou do interior de Minas Gerais, agora eu
+          sou estudante de engenharia de computação na UTFPR, em Apucarana,
+          sou torcedor do América mineiro (sim) 
+          e gosto muito de animais, astronomia e jogos online, principalmente valorant.
         </>
       }
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          src='/assets/images/COELHO.png'
           alt="Avatar image"
-          loading="lazy"
         />
       }
       socialButtons={

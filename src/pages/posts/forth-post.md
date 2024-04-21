@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 4th Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Clube centenário
+description: O América foi fundado em 1912, portanto é um clube centenário e um fato curioso é que somos 3 meses mais novos que o Santos.
 pubDate: 2020-02-04T00:00:00Z
-imgSrc: '/assets/images/image-post3.jpeg'
+imgSrc: '/assets/images/1912.png'
 imgAlt: 'Image post 3'
 ---
 
